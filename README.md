@@ -24,7 +24,7 @@ npm run test
 
 
 ### Testing a setTimeout
-Create a two test assertions for the FocusInput component.
+Create a two tests for the FocusInput component.
 
 - The first test should handle a button click event that disables the button.
   - Set a rendered `Timeout` to a deconstructed `getByText`.
